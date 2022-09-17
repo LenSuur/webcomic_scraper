@@ -1,0 +1,12 @@
+{
+    "name": "lennu/sexylosers",
+    "description": "sexylosers webcartoon",
+    "autoload": {
+        "psr-4": {
+            "Scraper\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+    }
+}
